@@ -1,0 +1,1 @@
+Aplicação para calcular receitas de cerveja para cervejeiros caseiros.
